@@ -26,11 +26,16 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
 **Programming & Tools**  
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)<br>
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)<br>
+![Databricks](https://img.shields.io/badge/-Databricks-EF3E3E?style=flat-square&logo=databricks&logoColor=white)<br>
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)<br>
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -42,8 +47,10 @@
 - ✅ **Task Alliance** – A Scrum Management Tool  
   Developed during internship at Prahan Soft. Led a team of 8 in building a ReactJS-based project management platform.
 
-- 🎥 **Media Content Analysis Platform**  
-  An analysis platform developed using **Python** and **MySQL**. Created **Streamlit Dashboard** that displays the insights of the analysis.
+- 🛰️ **SpaceX Rocket Analysis – Databricks Medallion Architecture**  
+Built a data analysis pipeline on Databricks using Azure Data Lake Storage and Delta Lake, following the Medallion Architecture (Bronze → Silver → Gold) to process and analyze SpaceX rocket launch data.
+
+
 
 
 ---
