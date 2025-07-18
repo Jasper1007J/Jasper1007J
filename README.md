@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Namala Jasper
 
 🎓 A passionate **Computer Science & Engineering graduate**  
-| 💻 **MERN Stack Developer** | ☁️ **Aspiring Data Engineer on Azure**
+| 💻 **MERN Stack Developer** | ☁️ **Aspiring Data Engineer**
 
 ---
 
